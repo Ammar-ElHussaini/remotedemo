@@ -1,1 +1,2 @@
-var = list item (s => s.name = s )
+var = list item (s => s.name = s );
+var = var.tolist();
